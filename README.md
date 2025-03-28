@@ -5,3 +5,8 @@
 </p>
 
 <img src="JogoDaVelha/assets/imgs/Screenshot from 2025-03-28 09-56-21.png"/>
+<br>
+
+<video>
+  <source src="JogoDaVelha/assets/videos/Screencast from 2025-03-28 11-24-45.webm" type="video/webm">
+</video>

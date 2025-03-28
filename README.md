@@ -7,8 +7,12 @@
 <img src="JogoDaVelha/assets/imgs/Screenshot from 2025-03-28 09-56-21.png"/>
 <br>
 
-<video width="600" controls>
-  <source src="JogoDaVelha/assets/videos/Screencast from 2025-03-28 11-24-45.webm" type="video/webm">
-  Seu navegador não suporta vídeos.
-</video>
+<h2>Instalação</h2>
+
+- Clone o repositorio com o link abaixo
+
+```bash
+https://github.com/Jefferson-Matheus/jogo-da-velha-java23.git
+
+```
 

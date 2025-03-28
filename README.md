@@ -7,8 +7,8 @@
 <img src="JogoDaVelha/assets/imgs/Screenshot from 2025-03-28 09-56-21.png"/>
 <br>
 
-<video width="400">
-  <source src="JogoDaVelha/assets/videos/Screencast from 2025-03-28 11-24-45.webm"  type="video/webm">
+<video width="600" controls>
+  <source src="JogoDaVelha/assets/videos/Screencast from 2025-03-28 11-24-45.webm" type="video/webm">
+  Seu navegador não suporta vídeos.
 </video>
-
 
